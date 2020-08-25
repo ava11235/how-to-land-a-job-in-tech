@@ -14,12 +14,12 @@ Divide and conquer approach algorithms such as binary search have a complexity o
 
 ### Big O Complexity Classes and how Big O is affected by changing (in this example doubling), th value of N:
 
-O(1) Constant. Time not dependent on N
-O(log2 N) Logarithmic.  Time increasse in a logarithmic fashion
-O(N) Linear.  Time increases linearly as N increases
-O(N^2) Quadratic. Time quadruples as N doubles  as N doubles
-O(N^3) Cubic. Time multiplied by 8
-O(2^N) Exponential. Time increases by A LOT.
+1. O(1) Constant. Time not dependent on N
+2. O(log2 N) Logarithmic.  Time increasse in a logarithmic fashion
+3. O(N) Linear.  Time increases linearly as N increases
+4. O(N^2) Quadratic. Time quadruples as N doubles  as N doubles
+5. O(N^3) Cubic. Time multiplied by 8
+6. O(2^N) Exponential. Time increases by A LOT.
 
 ### Example: 
 
