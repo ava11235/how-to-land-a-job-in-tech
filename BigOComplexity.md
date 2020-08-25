@@ -1,4 +1,4 @@
-## Big O Complexity  is used to classify algorithms based on how resources (space and time ) requirements grow depending on the size of the input.
+## Big O Complexity  is used to classify algorithms based on how resources (space and time ) requirements grow depending on the size of the input
 
 ### To determine an alogoritmn’s Big O complexity, we stipulate the following:
 1. Every statement takes the same amount of time to run
