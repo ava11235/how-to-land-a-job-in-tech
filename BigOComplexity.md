@@ -36,29 +36,29 @@ public static void replaceListItems int [] list){
 O(N):  2 statements = 2 * N (number of times the loop will run)
 
 
-### Common Data Structures	Complexity classes (worst times*) 
+### Common Data Structures Complexity classes (worst times*) 
                           Access Search Insertion Deletion	
-Array	                    O(1)	  O(n)	O(n)	    O(n)	
-Stack	                    O(n)	  O(n)	O(1)	    O(1)	
-Queue	                    O(n)	  O(n)	O(1)	    O(1)	
-Singly-Linked List      	O(n)	  O(1)	O(1)	    O(n)
-Doubly-Linked List	      O(n)	  O(1)	O(1)	    O(n)
-Hash Table	              O(n)	  O(n)	O(n)	    O(n)
-Binary Search Tree	      O(n)	  O(n)	O(n)	    O(n)
+1. Array	                    O(1)	  O(n)	O(n)	    O(n)	
+2. Stack	                    O(n)	  O(n)	O(1)	    O(1)	
+3. Queue	                    O(n)	  O(n)	O(1)	    O(1)	
+4. Singly-Linked List    	    O(n)	  O(1)	O(1)	    O(n)
+5. Doubly-Linked List	       	    O(n)	  O(1)	O(1)	    O(n)
+6. Hash Table	                    O(n)	  O(n)	O(n)	    O(n)
+7. Binary Search Tree	            O(n)	  O(n)	O(n)	    O(n)
 
 
 ### Common Sorting algorithms Complexity classes (worst times*)
 
 Algorithm     Time Complexity
 
-Quicksort     O(n^2)
+1. Quicksort     O(n^2)
 
-Mergesort     O(n log(n))
+2. Mergesort     O(n log(n))
 
-Bubble Sort   O(n^2)
+3. Bubble Sort   O(n^2)
 
-Insertion Sort O(n^2)
+4. Insertion Sort O(n^2)
 
-Selection Sort O(n^2)
+5. Selection Sort O(n^2)
 
 * While we can measure best or average times, we are usually concerned with worst running times 
