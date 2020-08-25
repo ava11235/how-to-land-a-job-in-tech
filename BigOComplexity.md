@@ -12,7 +12,7 @@ N^2 + 5N + 35, the Big O complexity would be N^2
 Divide and conquer approach algorithms such as binary search have a complexity of O(Log 2 N)
  
 
-### Big O Complexity Classes and how Big O is affected by changing (in this example doubling), th value of N:
+### Big O Complexity Classes and how Big O is affected by changing (in this example doubling), the value of N:
 
 1. O(1) Constant. Time not dependent on N
 2. O(log2 N) Logarithmic.  Time increasse in a logarithmic fashion
@@ -37,7 +37,7 @@ O(N):  2 statements = 2 * N (number of times the loop will run)
 
 
 ### Common Data Structures Complexity classes (worst times*) 
-                          Access Search Insertion Deletion	
+                          	    Access       Search Insertion Deletion
 1. Array	                    O(1)	  O(n)	O(n)	    O(n)	
 2. Stack	                    O(n)	  O(n)	O(1)	    O(1)	
 3. Queue	                    O(n)	  O(n)	O(1)	    O(1)	
